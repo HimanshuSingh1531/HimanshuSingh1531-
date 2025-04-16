@@ -110,8 +110,7 @@
 #  GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=HimanshuSingh1531&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![]([https://github-readme-streak-stats.herokuapp.com/?user=HimanshuSingh1531&theme=dark&hide_border=false](https://github-readme-streak-stats.herokuapp.com/?user=HimanshuSingh1531&theme=dark&hide_border=false&v=1
-))<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HimanshuSingh1531&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuSingh1531&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h2 align="center">Profile Stats</h2>
